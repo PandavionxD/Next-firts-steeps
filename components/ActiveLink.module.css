@@ -1,0 +1,6 @@
+.links{
+    @apply underline transition-all duration-300
+}
+.linksActive{
+    @apply text-indigo-600 -translate-y-2 no-underline text-lg 
+}
